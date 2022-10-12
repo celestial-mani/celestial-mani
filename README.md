@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @celestial-mani
-- 👀 I’m interested in . noneya
-- 🌱 I’m currently learning . Something
-- 💞️ I’m looking to collaborate on . Nothing
-- 📫 How to reach me . Don't
+- 👀 I’m interested in . 
+- 🌱 I’m currently learning . 
+- 💞️ I’m looking to collaborate on . 
+- 📫 How to reach me . 
 
 <!---
 celestial-mani/celestial-mani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
